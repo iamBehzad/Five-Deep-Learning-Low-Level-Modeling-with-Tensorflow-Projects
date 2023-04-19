@@ -1,4 +1,4 @@
-# Five Project Deep Learning Low Level Modeling Tensorflow
+# Five Deep Learning Low Level Modeling with Tensorflow Projects
 
 This repository includes five Jupyter notebooks that demonstrate various deep learning models for different datasets and tasks.
 
